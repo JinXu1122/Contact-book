@@ -1,4 +1,4 @@
-# Contact Management Web Application
+# Contact Book Web Application
 
 This is a Contact Management System built using PHP and a MySQL database. The project includes several functionalities to manage contacts effectively.
 
